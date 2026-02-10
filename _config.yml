@@ -1,9 +1,9 @@
 
 
 # --SITE SETTINGS--
-title: Exploring Sustainability and the Environment through the Dunitz Mural Archive
-email: Andy Rutkowski arutkows@usc.edu or Stacy Williams stacyw@usc.edu 
-description: This mapping project features the work of Professor Dana Millstein's Writing 150 students and materials from the Dunitz Archive
+title: Earthseeding Altadena
+email: Phumisit Jaab Veskijkul veskijku@usc.edu or Alison Hirsch alisonh@usc.edu 
+description: This project features the community mapping efforts of Landscape Justice Initiative for Altadena
 baseurl: "/EarthseedAltadena" # the subpath of your site, e.g. /blog/
 url: "" # the base hostname & protocol for your site
 github_repo: https://github.com/veskijku/EarthseedAltadena
