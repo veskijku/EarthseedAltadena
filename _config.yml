@@ -23,7 +23,7 @@ github_username:
 
 # --MAP SETTINGS--
 
-map-tileset: 'https://api.mapbox.com/styles/v1/veskijku/cmlq5vbn5007701swbhw01k1t.html?title=view&access_token=pk.eyJ1IjoidmVza2lqa3UiLCJhIjoiY21scTVuaTNkMGNkMjNlcHM1djNrcG9neCJ9.as63dxuQw7WIh3Uw6TUOXg&zoomwheel=true&fresh=true#2/38/-34'
+map-tileset: 'insert'
 map-credits: '<a target="_blank" href="https://github.com/kirschbombe/flaneur">Flâneur</a> | Tiles: Mapbox'
 minZoom: 0
 maxZoom: 20
