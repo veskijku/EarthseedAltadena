@@ -76,6 +76,7 @@ var control = L.control.layers(null, null, { collapsed: true, position: 'topleft
 }
 
 {% for post in site.categories[category_name] %}
+{% if post.lat and post.lng %}
       lat = {{ post.lat }};
       lng = {{ post.lng }};
 
@@ -120,6 +121,7 @@ var control = L.control.layers(null, null, { collapsed: true, position: 'topleft
         articlerender(article_url, item_id);
 
       });
+{% endif %}
 
       {% endfor %}
 
