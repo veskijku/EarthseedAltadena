@@ -1,11 +1,11 @@
 ---
 layout: post
-title: "Mountain View Cemetery"
-date: 2026-02-09
+title: "Farnsworth Park"
+date: 2026-02-20
 categories: ["Public Work"]
 author: "author"
-lat: 34.18705
-lng: -118.15005
+lat: 34.2005
+lng: -118.13199
 runningtitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
 desc: "this is the map popup text"
 ---
