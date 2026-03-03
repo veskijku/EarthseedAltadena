@@ -4,11 +4,12 @@ title: "Boulder Manor"
 date: 2022-02-20
 categories: ["Public Work"]
 author: "Phumisit Veskijkul"
-lat: 34.2005
-lng: -118.13199
+lat: 34.18983
+lng: -118.12154
 runningtitle: "title title"
 ---
-Body text goes here in Markdown
+2603 Boulder Road
+Casualty of Fires: Yes
 
 Some stuff . . . .
 ![Image title](images/filename.jpg -or- imageurl)
