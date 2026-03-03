@@ -27,7 +27,7 @@ map-tileset: 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'
 map-credits: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> contributors'
 minZoom: 0
 maxZoom: 24
-setView: '[34.1902, -118.1313], 16'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
+setView: '[34.1902, -118.1313], 12'  # set map center point and zoom. See http://leafletjs.com/reference-1.2.0.html for more info.
 marker-grouping: grouped # sets the default clustering action. Options: grouped, single
 
 
