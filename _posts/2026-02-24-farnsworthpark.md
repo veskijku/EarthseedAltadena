@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Farnsworth Park"
-date: 2022-02-20
+date: 2026-02-20
 categories: "Public Work"
 author: "Phumisit Veskijkul"
 lat: 34.2005
 lng: -118.13199
-runningtitle: "title title"
+runningtitle: "Casualty of Fires: Yes"
 ---
 Body text goes here in Markdown
 
