@@ -1,15 +1,16 @@
 ---
 layout: post
-title: "Farnsworth Park"
+title: "Green Estate Carriage House"
 date: 2026-02-09
-categories: ["Public Work"]
+categories: ["House"]
 author: "author"
-lat: 34.18705
-lng: -118.15005
+lat: 34.18873
+lng: -118.13758
 runningtitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
-desc: "this is the map popup text"
+desc: "Casualty of Fire: No"
 ---
 Body text goes here in Markdown
+2495 Santa Rosa Avenue
 
 ![Image title](images/filename.jpg -or- imageurl)
    {:.image} <-- this tag is needed for image formatting and for Lightbox feature -->
