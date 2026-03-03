@@ -1,16 +1,17 @@
 ---
 layout: post
-title: "Farnsworth Park"
-date: 2022-02-20
-categories: "Public Work"
-author: "Phumisit Veskijkul"
-lat: 34.2005
-lng: -118.13199
-runningtitle: "title title"
+title: "James Crank House"
+date: 2026-02-09
+categories: ["House"]
+author: "author"
+lat: 34.1728
+lng: -118.1057
+runningtitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
+desc: "Casualty of Fire: No"
 ---
 Body text goes here in Markdown
+2186 East Crary Street
 
-Some stuff . . . .
 ![Image title](images/filename.jpg -or- imageurl)
    {:.image} <-- this tag is needed for image formatting and for Lightbox feature -->
 Image attribution / caption.
