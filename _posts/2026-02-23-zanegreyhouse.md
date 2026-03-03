@@ -7,9 +7,9 @@ author: "Student name?"
 lat: 34.19067
 lng: -118.14158
 runningtitle: "this is the running title at the top. the default is to display the site title, so to activate the running title you will need to uncomment in the post.html layout"
-desc: "Life Line: Creating Healthy Community"
+desc: "Casualty of Fires: Yes"
 ---
-blah blah blah
+396 Mariposa Street
 
 from Ruth Wallach's site:
 Vermont and 30th St. Assistants: Kevin Reed, Melquin Sanchez, Barbara Carrasco, Kara Engel, Hector Rivera, Mari Hulick, Jeffrey Normile, Jan Closson, Deem Hanks, Felipe Cueva, Celia D. Brown, Myung H. Suh, Amy Ensel, William Towles, Louie Arzaden Jr, Dennis Mohammed, Rosemarie Young, Juan Hernandez, Emma Epstein, Natalie Rivera, Martiza Engleton, Leslie Mendez. Sponsored by the Social and Public Art Resource Center and made possible through a contract with the Cultural Affairs Department, City of Los Angeles: neighborhood Pride: Great Walls Unlimited, 1992-1993. En memoria de Julie Jocelyn Valenzuela. Photos as of 1998. Mural no longer there as of 2005.
