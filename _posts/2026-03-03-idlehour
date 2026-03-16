@@ -1,0 +1,24 @@
+---
+layout: post
+title: ""Idle Hour""
+date: 2026-03-03
+categories: ["House"]
+author: "Phumisit Veskijkul"
+lat: 34.19722
+lng: -118.14285
+runningtitle: "title title"
+---
+3079 Highview Avenue
+Casualty of Fires: Yes
+
+Some stuff . . . .
+![Image title](images/filename.jpg -or- imageurl)
+   {:.image} <-- this tag is needed for image formatting and for Lightbox feature -->
+Image attribution / caption.
+   {:.caption} <-- this tag is needed for caption formatting and for Lightbox feature -->
+
+#### Works cited
+
+{:.bibliography} <-- this tag is needed for bibliography formatting -->
+1. Entry 1
+2. Entry 2
